@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  I'm a Computer Engineering student in Santiago de Compostela.<br><br>
+I'm a Computer Engineer, currently pursuing a Master's in Cybersecurity at ICAI.
   - I'm currently learning about cybersecurity.<br>
   - In my free time I explore topics related to technology and security.
 </p>
