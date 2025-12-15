@@ -32,16 +32,15 @@ I'm a Computer Engineer, currently pursuing a Master's in Cybersecurity at ICAI.
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=D4C4D1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4C4D1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=D4C4D1&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D4C4D1&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 
